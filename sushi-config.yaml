@@ -25,5 +25,25 @@ menu:
   Home: index.html
   Artifacts: artifacts.html
 
+groups:
+  GroupA:
+    name: Betaklav
+    description: Estaonian example. A bundle containing all the Betaklav resources.
+    resources:
+    - Bundle/10e18b90-c5ff-4921-acae-db0a9f85cc79
+
+  GroupB:
+    name: Cefuroxime
+    description: Cefuroxime as specified in Estonia
+    resources:
+    - MedicinalProductDefinition/CefuroximeMIP1500MG-EE	
+    - ManufacturedItemDefinition/CefuroximeMIP1500MG-EE-ManItem001	
+    - RegulatedAuthorization/CefuroximeMIP1500MG-EE-MarketingAuthorisation	
+    - PackagedProductDefinition/CefuroximeMIP1500MG-EE-Package001
+    - Ingredient/cefuroxime-1500mg-Ingredient	
+    - AdministrableProductDefinition/cefuroxime-1500mg-solution-vial
+
+
+
   
   

@@ -1,0 +1,17 @@
+Name                                                        Type      File
+10e18b90-c5ff-4921-acae-db0a9f85cc79                        Instance  instances\10e18b90-c5ff-4921-acae-db0a9f85cc79.fsh
+CefuroximeMIP1500MG-EE                                      Instance  instances\CefuroximeMIP1500MG-EE.fsh
+CefuroximeMIP1500MG-EE-ManItem001                           Instance  instances\CefuroximeMIP1500MG-EE-ManItem001.fsh
+CefuroximeMIP1500MG-EE-MarketingAuthorisation               Instance  instances\CefuroximeMIP1500MG-EE-MarketingAuthorisation.fsh
+CefuroximeMIP1500MG-EE-Package001                           Instance  instances\CefuroximeMIP1500MG-EE-Package001.fsh
+Inline-Instance-for-10e18b90-c5ff-4921-acae-db0a9f85cc79-1  Instance  instances\Inline-Instance-for-10e18b90-c5ff-4921-acae-db0a9f85cc79-1.fsh
+Inline-Instance-for-10e18b90-c5ff-4921-acae-db0a9f85cc79-2  Instance  instances\Inline-Instance-for-10e18b90-c5ff-4921-acae-db0a9f85cc79-2.fsh
+Inline-Instance-for-10e18b90-c5ff-4921-acae-db0a9f85cc79-3  Instance  instances\Inline-Instance-for-10e18b90-c5ff-4921-acae-db0a9f85cc79-3.fsh
+Inline-Instance-for-10e18b90-c5ff-4921-acae-db0a9f85cc79-4  Instance  instances\Inline-Instance-for-10e18b90-c5ff-4921-acae-db0a9f85cc79-4.fsh
+Inline-Instance-for-10e18b90-c5ff-4921-acae-db0a9f85cc79-5  Instance  instances\Inline-Instance-for-10e18b90-c5ff-4921-acae-db0a9f85cc79-5.fsh
+Inline-Instance-for-10e18b90-c5ff-4921-acae-db0a9f85cc79-6  Instance  instances\Inline-Instance-for-10e18b90-c5ff-4921-acae-db0a9f85cc79-6.fsh
+Inline-Instance-for-10e18b90-c5ff-4921-acae-db0a9f85cc79-7  Instance  instances\Inline-Instance-for-10e18b90-c5ff-4921-acae-db0a9f85cc79-7.fsh
+Inline-Instance-for-10e18b90-c5ff-4921-acae-db0a9f85cc79-8  Instance  instances\Inline-Instance-for-10e18b90-c5ff-4921-acae-db0a9f85cc79-8.fsh
+Inline-Instance-for-10e18b90-c5ff-4921-acae-db0a9f85cc79-9  Instance  instances\Inline-Instance-for-10e18b90-c5ff-4921-acae-db0a9f85cc79-9.fsh
+cefuroxime-1500mg-Ingredient                                Instance  instances\cefuroxime-1500mg-Ingredient.fsh
+cefuroxime-1500mg-solution-vial                             Instance  instances\cefuroxime-1500mg-solution-vial.fsh
