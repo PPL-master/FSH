@@ -1,4 +1,6 @@
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+fsh-generated/
+gofsh/
+input-cache/
+output/
+temp/
+template/
