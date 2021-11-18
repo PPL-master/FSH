@@ -1,0 +1,45 @@
+# ╭──────────────────────────────────────ImplementationGuide───────────────────────────────────────╮
+# │  The properties below are used to create the ImplementationGuide resource. For a list of       │
+# │  supported properties, see: https://fshschool.org/sushi/configuration/                         │
+# ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
+id: fhir.example.brandr.researchstudy
+canonical: http://example.org/brandr/researchstudy
+name: ResearchStudyIG
+title: "HL7 FHIR ResearchStudy Example"
+description: An illustrtation of representing a real regulated study in the ResearchStudy resource
+status: draft
+version: 0.1.0
+fhirVersion: 4.6.0
+copyrightYear: 2021+
+releaseLabel: current
+publisher:
+    name: HL7 International - BR&R Work Group
+    url: https://confluence.hl7.org/display/BRR/Biomedical+Research+and+Regulation
+dependencies:
+#   hl7.fhir.r5.core : dev
+#    hl7.fhir.r5.expansions : current
+# ╭────────────────────────────────────────────menu.xml────────────────────────────────────────────╮
+# │  To use a provided ig-data/input/includes/menu.xml file, delete the "menu" property below.     │
+# ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
+menu:
+  Home: index.html
+  Artifacts: artifacts.html
+
+groups:
+  GroupA:
+    name: Base Objects
+    description: The main objects that are used in many of the examples
+    resources:
+    - Patient/PAT219
+    - Practitioner/SamGetWell
+
+  GroupB:
+    name: Example fragments
+    description: Sample example fragments that illustrate specifc points
+    resources:
+    - Group/Group-InclusionExclusion
+    - ResearchStudy/ResearchStudy-Recruitment
+    - ResearchStudy/ResearchStudy-Protocol
+    - ResearchSubject/ResearchSubject-Consent
+  
+  
