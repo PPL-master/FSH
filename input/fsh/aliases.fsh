@@ -15,3 +15,4 @@ Alias: $200000003199 = https://spor.ema.europa.eu/v1/lists/200000003199
 Alias: $100000072050 = https://spor.ema.europa.eu/v1/lists/100000072050
 Alias: $SubstanceDefinition = https://spor.ema.europa.eu/v2/SubstanceDefinition
 Alias: $100000000008 = https://spor.ema.europa.eu/v1/lists/100000000008
+Alias: $200000000008 = https://spor.ema.europa.eu/v1/lists/200000000008
