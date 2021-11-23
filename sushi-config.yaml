@@ -28,7 +28,7 @@ menu:
 groups:
   GroupA:
     name: Betaklav
-    description: Estaonian example. A bundle containing all the Betaklav resources.
+    description: Estonian example. A bundle containing all the Betaklav resources.
     resources:
     - Bundle/10e18b90-c5ff-4921-acae-db0a9f85cc79
 
@@ -42,6 +42,12 @@ groups:
     - PackagedProductDefinition/CefuroximeMIP1500MG-EE-Package001
     - Ingredient/cefuroxime-1500mg-Ingredient	
     - AdministrableProductDefinition/cefuroxime-1500mg-solution-vial
+
+  Group C:
+    name: CanifugCremolum EE
+    description: Canestan Combi in its Estonian form.  This has been built as a transaction so all resources are independant, but are managed as a single transaction - if one part fails it all fails.
+    resources:
+    - Bundle/CanifugCremolum-EE-Bundle
 
 
 
