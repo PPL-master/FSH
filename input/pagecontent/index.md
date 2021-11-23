@@ -6,7 +6,7 @@ This Implementation Guide is built to convey examples - it is not a substitute f
 
 The Artifacts tab of this guide provides a set of examples for different products.  To accompany these there is a FHIR server that has been loaded with the same set of examples.  Direct access to the server uses the following address:
 
-https://ppl01.azurewebsites.net/ppl01
+https://ppl.azurewebsites.net/ppl02
 
 **Note**: Following this link directly will generate a download, not take you to a webpage.  
 
