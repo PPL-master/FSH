@@ -1,4 +1,5 @@
 Instance: 10e18b90-c5ff-4921-acae-db0a9f85cc79
+Description: "Estonian example. A bundle containing all the Betaklav resources.  These only exist as the bundle."
 InstanceOf: Bundle
 Usage: #example
 * meta.versionId = "4"
